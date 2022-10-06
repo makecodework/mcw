@@ -1,0 +1,9 @@
+footer {
+	background-color: $footer_bg__color;
+	padding: 37px 0;
+}
+div {
+	display: flex;
+	justify-content: space-between;
+}
+@import"_copyright.scss"

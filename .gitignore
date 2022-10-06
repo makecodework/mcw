@@ -1,0 +1,10 @@
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+node_modules/
+vendor
+Gemfile
+Gemfile.lock
+Academy_Responsive_Landing.fig
+Multipurpose Landing Page, Website Template.fig
